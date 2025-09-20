@@ -32,7 +32,7 @@ class Library {
     }
 }
 
-public class AggregationDemo {
+public class Library_and_books {
     public static void main(String[] args) {
         Book b1 = new Book("Java Basics", "James");
         Book b2 = new Book("Python 101", "Guido");
