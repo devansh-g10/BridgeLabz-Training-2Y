@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class AutoBoxingUnboxing {
+public class AutoboxingUnboxing {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
 
