@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class EmployeeDepartmentMapping {
     public static void main(String[] args) {
